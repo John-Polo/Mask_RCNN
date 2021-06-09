@@ -5,8 +5,8 @@ cython
 matplotlib
 scikit-image
 h5py
-tensorflow==1.15.3
-tensorflow-gpu==1.15.3
+#tensorflow==1.15.3
+#tensorflow-gpu==1.15.3
 opencv-python
 imgaug
 IPython[all]
