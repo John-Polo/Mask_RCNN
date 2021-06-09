@@ -10,6 +10,5 @@ tensorflow==1.15.3
 tensorflow-gpu==1.15.3
 keras==2.1.6
 opencv-python
-h5py
 imgaug
 IPython[all]
