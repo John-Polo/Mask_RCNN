@@ -4,8 +4,7 @@ Pillow
 cython
 matplotlib
 scikit-image
-h5py==2.10.0
-gast==0.3.2
+h5py
 tensorflow==1.15.3
 tensorflow-gpu==1.15.3
 opencv-python
